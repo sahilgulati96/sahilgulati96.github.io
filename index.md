@@ -15,6 +15,21 @@ methodology along with business process Automation with good knowledge of SDLC a
 - Responsible for deployment and management of production and non-production environments.
 - Experience in Setting up Application and Web Server and creating pipelines using Jenkins and Bamboo.
 
+## Skills
+
+| Skill Set | Tools and Tech Used |
+| ------------- | ------------- |
+| CI/CD Deployment  | Jenkins, Github Actions  |
+| Build Tools  | Ant,  Maven  |
+| Containers and Management | Docker, Kubernetes |
+| Monitoring | Splunk, AppDynamics |
+| Operating Systems | Linux and Windows Server |
+| Version Control | Git (Bitbucket and Github) |
+| Automated Test | Selenium |
+| Scripting | Shell and Powershell |
+| Programming Skills | Java |
+| Cloud | AWS, SAP Cloud |
+
 ## Professional Summary
 
 ### Devops Engineer, Deutsche Telekom Digital Labs
@@ -47,7 +62,7 @@ Oct 2018 - May 2021
 
 ## Freelancing Projects
 
-### [theAstroCare.com](www.theastrocare.com) {[Project Repo](https://github.com/ananyapurkayestha13/horscope-landing)}
+### [theAstroCare.com](https://theastrocare.com) {[Project Repo](https://github.com/ananyapurkayestha13/horscope-landing)}
 Role: AWS Architect and DevOps Engineer
 
 - Design and Setup Architecture for the website on AWS and setting up the connection between services.
@@ -58,23 +73,10 @@ Role: AWS Architect and DevOps Engineer
 
 ## Certifications
 
-- Splunk Certified Power-User (Dec 2020)
-- AWS certified Solution Architect – Associate (May 2020).
-- Project Management by Adelaide University, Australia (Oct 2017)
+- [Splunk Certified Power-User (Dec 2020)](https://drive.google.com/file/d/1f-VceeQMooEubVekCQvU1LIMrbi9SW3S/view?usp=sharing)
+- [AWS certified Solution Architect – Associate (May 2020).](https://drive.google.com/file/d/1c4yYsJI05XNnJr3dX7nZhfT4cNOjTRFA/view?usp=sharing)
+- [Project Management by Adelaide University, Australia (Oct 2017)](https://drive.google.com/file/d/1ib7RsY9sfM9b0e1Eo1mzq6LfXTsqeZHM/view?usp=sharing)
 
-## Skills
 
-| Skill Set     | Tools and Tech Used |
-| ------------- | ------------- |
-| CI/CD Deployment  | Jenkins, Github Actions  |
-| Build Tools  | Ant,  Maven  |
-| Containers and Management | Docker, Kubernetes |
-| Monitoring | Splunk, AppDynamics |
-| Operating Systems | Linux and Windows Server |
-| Version Control | Git (Bitbucket and Github) |
-| Automated Test | Selenium |
-| Scripting | Shell and Powershell |
-| Programming Skills | Java |
-| Cloud | AWS, SAP Cloud |
 
 
