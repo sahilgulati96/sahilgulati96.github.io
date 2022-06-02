@@ -1,8 +1,8 @@
 ## Welcome to my Profile
 
 - Email Id: sahilgulati102@gmail.com, Mob: +91- 9752795950
-- [GitHub] (https://github.com/sahilgulati96)
-- [Linkedin](https://www.linkedin.com/in/sahil-gulati-39400b113/)
+- [Sahil's GitHub](https://github.com/sahilgulati96)
+- [Sahil's Linkedin](https://www.linkedin.com/in/sahil-gulati-39400b113/)
 
 ## About Me
 
@@ -47,8 +47,7 @@ Oct 2018 - May 2021
 
 ## Freelancing Projects
 
-### www.theastrocare.com 
-https://github.com/ananyapurkayestha13/horscope-landing
+### [theAstroCare.com](www.theastrocare.com) {[Project Repo](https://github.com/ananyapurkayestha13/horscope-landing)}
 Role: AWS Architect and DevOps Engineer
 
 - Design and Setup Architecture for the website on AWS and setting up the connection between services.
@@ -64,5 +63,18 @@ Role: AWS Architect and DevOps Engineer
 - Project Management by Adelaide University, Australia (Oct 2017)
 
 ## Skills
+
+| Skill Set     | Tools and Tech Used |
+| ------------- | ------------- |
+| CI/CD Deployment  | Jenkins, Github Actions  |
+| Build Tools  | Ant,  Maven  |
+| Containers and Management | Docker, Kubernetes |
+| Monitoring | Splunk, AppDynamics |
+| Operating Systems | Linux and Windows Server |
+| Version Control | Git (Bitbucket and Github) |
+| Automated Test | Selenium |
+| Scripting | Shell and Powershell |
+| Programming Skills | Java |
+| Cloud | AWS, SAP Cloud |
 
 
