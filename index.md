@@ -37,6 +37,7 @@ May 2022 - Present
 
 ### DevOps Consultant, HCL Technologies
 <details><summary>Click here for Details</summary>
+<p>
 May 2021-May 2022
 
 - Create and Maintain Jenkins Pipeline and jobs and fix any issues encountered during build.
