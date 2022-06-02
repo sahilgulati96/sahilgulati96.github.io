@@ -2,17 +2,14 @@
 
 ## About Me
 
-● AWS Certified Solution Architect and DevOps Engineer with 4+ years of experience in DevOps tools and
-methodology along with business process Automation.
-● Good knowledge of SDLC and STLC.
-● Good Knowledge on implementing Devops methodology to improve site reliability and platform stability.
-● A versatile and dynamic personality who is always eager to learn and implement new technology to improve the
-existing way of delivering the quality deliverable to the client without compromising with the timeline.
-● Extensive experience in implementing continuous integration and testing using DevOps tools including docker,
-Selenium, Maven, Splunk, AppD and Jenkins.
-● Hands-on Experience in designing the architecture on AWS and setup up DevOps Pipeline using GitHub Workflow.
-● Responsible for deployment and management of production and non-production environments.
-● Experience in Setting up Application and Web Server and creating pipelines using Jenkins and Bamboo.
+- I am a AWS Certified Solution Architect and DevOps Engineer with 4+ years of experience in DevOps tools and
+methodology along with business process Automation with good knowledge of SDLC and STLC.
+- Good Knowledge on implementing Devops methodology to improve site reliability and platform stability.
+- A versatile and dynamic personality who is always eager to learn and implement new technology to improve the existing way of delivering the quality deliverable to the client without compromising with the timeline.
+- Extensive experience in implementing continuous integration and testing using DevOps tools including docker, kubernetes, Terraform, Selenium, Maven, Splunk, AppD and Jenkins.
+- Hands-on Experience in designing the architecture on AWS and setup up DevOps Pipeline using GitHub Workflow.
+- Responsible for deployment and management of production and non-production environments.
+- Experience in Setting up Application and Web Server and creating pipelines using Jenkins and Bamboo.
 
 ## Professional Summary
 
@@ -22,36 +19,27 @@ May 2022 - Present
 ### Devops Lead, HCL Technologies
 May 2021-May 2022
 
-● Create and Maintain Jenkins Pipeline and jobs and fix any issues encountered during build.
-● Doing Deployment on Production Environment and help developer to triage any issue on non-prod environments,
-● Setting up Application and IIS web Server, configure routing and setup monitoring using AppDynamics and
-Splunk.
-● Perform Disaster Recovery Test, Setup SSL certificates for Application and Web Servers.
-● Working as a Lead for the DevOps Team and mentoring them through the application and process.
-● Create Branching Strategy for the dev team and enforcing the standards and naming convention on GitHub.
-● Do a POC for implementing Ansible to standardize installation and maintenance of Servers
-● Regularly Participate in PI planning with the Dev’s and Clients to understand the requirement, formulate the plan
-and timelines for the deliverables.
+- Create and Maintain Jenkins Pipeline and jobs and fix any issues encountered during build.
+- Doing Deployment on Production Environment and help developer to triage any issue on non-prod environments, Setting up Application and IIS web Server, configure routing and setup monitoring using AppDynamics and Splunk.
+- Perform Disaster Recovery Test, Setup SSL certificates for Application and Web Servers.
+- Working as a Lead for the DevOps Team and mentoring them through the application and process.
+- Create Branching Strategy for the dev team and enforcing the standards and naming convention on GitHub.
+- Do a POC for implementing Ansible to standardize installation and maintenance of Servers
+- Regularly Participate in PI planning with the Dev’s and Clients to understand the requirement, formulate the plan and timelines for the deliverables.
 
 ### Software Engineer, Accenture
 Oct 2018 - May 2021
 
-● Doing Deployments on the Production environment and troubleshooting any issues encountered during and post
-deployment.
-● Creation of Splunk reports and Dashboards on Splunk Cloud instances using Splunk queries and managing
-forwarders configuration on the prod and non-prod servers.
-● Creation of Alerts and setup monitoring for SAP hybris Cloud.
-● Managing and fixing runtime issues on Production servers hosted on Rackspace and monitoring them using
-AppDynamics.
-● Responsible for implementing Cloud migration of Rackspace hosted servers to SAP Cloud.
-● Using SCM tool bitbucket and managing source code. In addition to that resolving merge conflicts, creating
-branches and polling the branches to Bamboo jobs.
-● Supporting development teams, testing teams in using CI/CD, troubleshooting in any build failures or any errors,
-giving sessions in using automated flows and DevOps capabilities.
-● Managing PERF, UAT and Dev environments, managing build and deployment activities on these environments.
-● Automation of BAU Activities using Shell scripting and java and building it on Jenkins using docker containers and
-deploying them to the virtually hosted windows server.
-● Submitted Whitepaper on the concept of “Work When You Get Alert” in GHCI-2020.
+- Doing Deployments on the Production environment and troubleshooting any issues encountered during and post deployment.
+- Creation of Splunk reports and Dashboards on Splunk Cloud instances using Splunk queries and managing forwarders configuration on the prod and non-prod servers.
+- Creation of Alerts and setup monitoring for SAP hybris Cloud.
+- Managing and fixing runtime issues on Production servers hosted on Rackspace and monitoring them using AppDynamics.
+- Responsible for implementing Cloud migration of Rackspace hosted servers to SAP Cloud.
+- Using SCM tool bitbucket and managing source code. In addition to that resolving merge conflicts, creating branches and polling the branches to Bamboo jobs.
+- Supporting development teams, testing teams in using CI/CD, troubleshooting in any build failures or any errors, giving sessions in using automated flows and DevOps capabilities.
+- Managing PERF, UAT and Dev environments, managing build and deployment activities on these environments.
+- Automation of BAU Activities using Shell scripting and java and building it on Jenkins using docker containers and deploying them to the virtually hosted windows server.
+- Submitted Whitepaper on the concept of “Work When You Get Alert” in GHCI-2020.
 
 ## Freelancing Projects
 
@@ -59,17 +47,17 @@ deploying them to the virtually hosted windows server.
 https://github.com/ananyapurkayestha13/horscope-landing
 Role: AWS Architect and DevOps Engineer
 
-● Design and Setup Architecture for the website on AWS and setting up the connection between services.
-● Setting up Version Control on GitHub and Deployment pipeline on using GitHub Workflows.
-● Setup SSL Certificates and content Delivery Network using CloudFront.
-● Setup cNames and Alias in the hosted zone for the domain on Route53.
-● Setup S3 Bucket for the static content of the website and Google API for the backend flow.
+- Design and Setup Architecture for the website on AWS and setting up the connection between services.
+- Setting up Version Control on GitHub and Deployment pipeline on using GitHub Workflows.
+- Setup SSL Certificates and content Delivery Network using CloudFront.
+- Setup cNames and Alias in the hosted zone for the domain on Route53.
+- Setup S3 Bucket for the static content of the website and Google API for the backend flow.
 
 ## Certifications
 
-● Splunk Certified Power-User (Dec 2020)
-● AWS certified Solution Architect – Associate (May 2020).
-● Project Management by Adelaide University, Australia (Oct 2017)
+- Splunk Certified Power-User (Dec 2020)
+- AWS certified Solution Architect – Associate (May 2020).
+- Project Management by Adelaide University, Australia (Oct 2017)
 
 ## Skills
 
