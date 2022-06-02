@@ -8,7 +8,7 @@
 
 ## About Me
 
-- I am a AWS Certified Solution Architect and DevOps Engineer with 4+ years of experience in DevOps tools and
+- I am a AWS Certified Solution Architect and DevOps Engineer with 3+ years of experience in DevOps tools and
 methodology along with business process Automation with good knowledge of SDLC and STLC.
 - Good Knowledge on implementing Devops methodology to improve site reliability and platform stability.
 - A versatile and dynamic personality who is always eager to learn and implement new technology to improve the existing way of delivering the quality deliverable to the client without compromising with the timeline.
