@@ -36,9 +36,7 @@ methodology along with business process Automation with good knowledge of SDLC a
 May 2022 - Present
 
 ### DevOps Consultant, HCL Technologies
-<details><summary>Click here for Details</summary>
-<p>
-May 2021-May 2022
+![This is an image](/test.jpg)May 2021-May 2022
 
 - Create and Maintain Jenkins Pipeline and jobs and fix any issues encountered during build.
 - Doing Deployment on Production Environment and help developer to triage any issue on non-prod environments, Setting up Application and IIS web Server, configure routing and setup monitoring using AppDynamics and Splunk.
@@ -47,8 +45,6 @@ May 2021-May 2022
 - Create Branching Strategy for the dev team and enforcing the standards and naming convention on GitHub.
 - Do a POC for implementing Ansible to standardize installation and maintenance of Servers
 - Regularly Participate in PI planning with the Dev’s and Clients to understand the requirement, formulate the plan and timelines for the deliverables.
-</p>
-</details>
 
 ### Software Engineer, Accenture
 Oct 2018 - May 2021
