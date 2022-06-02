@@ -1,5 +1,7 @@
 ## Welcome to my Profile
 
+![My Profile Photo](./sahil.jpg)
+
 - Email Id: sahilgulati102@gmail.com, Mob: +91- 9752795950
 - [Sahil's GitHub](https://github.com/sahilgulati96)
 - [Sahil's Linkedin](https://www.linkedin.com/in/sahil-gulati-39400b113/)
@@ -36,7 +38,7 @@ methodology along with business process Automation with good knowledge of SDLC a
 May 2022 - Present
 
 ### DevOps Consultant, HCL Technologies
-![This is an image](/test.jpg)May 2021-May 2022
+May 2021-May 2022
 
 - Create and Maintain Jenkins Pipeline and jobs and fix any issues encountered during build.
 - Doing Deployment on Production Environment and help developer to triage any issue on non-prod environments, Setting up Application and IIS web Server, configure routing and setup monitoring using AppDynamics and Splunk.
