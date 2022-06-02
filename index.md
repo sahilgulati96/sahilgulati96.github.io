@@ -35,8 +35,8 @@ methodology along with business process Automation with good knowledge of SDLC a
 ### Devops Engineer, Deutsche Telekom Digital Labs
 May 2022 - Present
 
-### <details><summary>DevOps Consultant, HCL Technologies</summary>
-<p>
+### DevOps Consultant, HCL Technologies
+<details><summary>Click here for Details</summary>
 May 2021-May 2022
 
 - Create and Maintain Jenkins Pipeline and jobs and fix any issues encountered during build.
