@@ -1,6 +1,6 @@
 ## Welcome to my Profile
 
-![My Profile Photo](./sahil.jpg)
+![My Profile Photo](./sahil.jpg | =250x250)
 
 - Email Id: sahilgulati102@gmail.com, Mob: +91- 9752795950
 - [Sahil's GitHub](https://github.com/sahilgulati96)
