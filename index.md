@@ -37,6 +37,12 @@ methodology along with business process Automation with good knowledge of SDLC a
 ### Devops Engineer, Deutsche Telekom Digital Labs
 May 2022 - Present
 
+- Create and maintain environment for Jira/Confluence team and assist them in the debugging of any infrastructure and performance related issues.
+- Setup infrastructure for the team using AWS CloudFormation templates.
+- Setup nginx webserver, configure routing and setting up of monitoring using AppDynamics and Kibana.
+- Create AMI’s on AWS using packer and maintain configuration of app and web server using Ansible.
+- Participate in agile ceremonies and PI planning to understand features and requirement of the business.
+
 ### DevOps Consultant, HCL Technologies
 May 2021-May 2022
 
