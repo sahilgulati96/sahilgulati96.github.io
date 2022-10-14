@@ -8,34 +8,43 @@
 
 ## About Me
 
-- I am a AWS Certified Solution Architect and DevOps Engineer with 3+ years of experience in DevOps tools and
-methodology along with business process Automation with good knowledge of SDLC and STLC.
+- AWS Certified Solution Architect and DevOps Engineer with 4+ years of experience in DevOps and SRE.
+- Good knowledge of Software Development Life Cycle.
 - Good Knowledge on implementing Devops methodology to improve site reliability and platform stability.
 - A versatile and dynamic personality who is always eager to learn and implement new technology to improve the existing way of delivering the quality deliverable to the client without compromising with the timeline.
-- Extensive experience in implementing continuous integration and testing using DevOps tools including docker, kubernetes, Terraform, Selenium, Maven, Splunk, AppD and Jenkins.
-- Hands-on Experience in designing the architecture on AWS and setup up DevOps Pipeline using GitHub Workflow.
+- Extensive experience in implementing continuous integration and cloud using DevOps tools including docker, Selenium, Maven, Splunk, AppD, AWS and Jenkins.
+- Hands-on Experience in designing the architecture on AWS and setup up DevOps Pipeline using GitLab CI.
 - Responsible for deployment and management of production and non-production environments.
-- Experience in Setting up Application and Web Server and creating pipelines using Jenkins and Bamboo.
+- Experience in Setting up Application Server, Infrastructure and creating pipelines using Jenkins.
+
 
 ## Skills
 
 | Skill Set | Tools and Tech Used |
 | ------------- | ------------- |
-| CI/CD Deployment  | Jenkins, Github Actions  |
+| CI/CD Deployment  | Jenkins, Gitlab CI  |
 | Build Tools  | Ant,  Maven  |
 | Containers and Management | Docker, Kubernetes |
 | Monitoring | Splunk, AppDynamics |
 | Operating Systems | Linux and Windows Server |
-| Version Control | Git (Bitbucket and Github) |
+| Version Control | Git and Gitlab |
 | Automated Test | Selenium |
 | Scripting | Shell and Powershell |
 | Programming Skills | Java |
 | Cloud | AWS, SAP Cloud |
+| Infrastructure as Code | Cloudformation |
 
 ## Professional Summary
 
 ### Devops Engineer, Deutsche Telekom Digital Labs
 May 2022 - Present
+
+- Create and maintain environment for Jira/Confluence team and assist them in the debugging of any infrastructure and performance related issues.
+- Setup and manage infrastructure on AWS using CloudFormation templates and aws cli.
+- Create and Manage Gitlab Repository and Pipeline for infrastructure and micro-services deployment. 
+- Create AMI’s on AWS using packer and maintain configuration of application using ansible.
+- Participate in agile ceremonies and PI planning to understand features and requirement from the business.
+
 
 ### DevOps Consultant, HCL Technologies
 May 2021-May 2022
@@ -45,7 +54,6 @@ May 2021-May 2022
 - Perform Disaster Recovery Test, Setup SSL certificates for Application and Web Servers.
 - Working as a Lead for the DevOps Team and mentoring them through the application and process.
 - Create Branching Strategy for the dev team and enforcing the standards and naming convention on GitHub.
-- Do a POC for implementing Ansible to standardize installation and maintenance of Servers
 - Regularly Participate in PI planning with the Dev’s and Clients to understand the requirement, formulate the plan and timelines for the deliverables.
 
 ### Software Engineer, Accenture
@@ -59,7 +67,6 @@ Oct 2018 - May 2021
 - Using SCM tool bitbucket and managing source code. In addition to that resolving merge conflicts, creating branches and polling the branches to Bamboo jobs.
 - Supporting development teams, testing teams in using CI/CD, troubleshooting in any build failures or any errors, giving sessions in using automated flows and DevOps capabilities.
 - Managing PERF, UAT and Dev environments, managing build and deployment activities on these environments.
-- Automation of BAU Activities using Shell scripting and java and building it on Jenkins using docker containers and deploying them to the virtually hosted windows server.
 - Submitted Whitepaper on the concept of “Work When You Get Alert” in GHCI-2020.
 
 ## Freelancing Projects
