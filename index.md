@@ -39,6 +39,8 @@
 ### Devops Engineer, Deutsche Telekom Digital Labs
 May 2022 - Present
 
+- Automatation of Copyback Process for Database and EFS across multiple account from prod to non-prod environments ensuring no senstive data leakage.
+- Migration of our existing cloud infrastructure from Cloudformation to Terraform.
 - Create and maintain environment for Jira/Confluence team and assist them in the debugging of any infrastructure and performance related issues.
 - Setup and manage infrastructure on AWS using CloudFormation templates and aws cli.
 - Create and Manage Gitlab Repository and Pipeline for infrastructure and micro-services deployment. 
