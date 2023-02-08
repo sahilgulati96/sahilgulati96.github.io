@@ -71,9 +71,10 @@ Oct 2018 - May 2021
 - Managing PERF, UAT and Dev environments, managing build and deployment activities on these environments.
 - Submitted Whitepaper on the concept of “Work When You Get Alert” in GHCI-2020.
 
-## Freelancing Projects
+## Charity Projects
+Projects done to help people to bring thier bussiness online during pandemic.
 
-### [theAstroCare.com](https://theastrocare.com) {[Project Repo](https://github.com/ananyapurkayestha13/horscope-landing)}
+### [theAstroCare.com](https://theastrocare.com) {[Project Repo](https://github.com/ananyapurkayestha13/horscope-landing)} (May 2020)
 Role: AWS Architect and DevOps Engineer
 
 - Design and Setup Architecture for the website on AWS and setting up the connection between services.
