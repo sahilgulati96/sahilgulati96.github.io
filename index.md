@@ -30,9 +30,10 @@
 | Version Control | Git and Gitlab |
 | Automated Test | Selenium |
 | Scripting | Shell and Powershell |
-| Programming Skills | Java |
+| Programming Skills | Java, Python |
 | Cloud | AWS, SAP Cloud |
-| Infrastructure as Code | Cloudformation |
+| Infrastructure as Code | AWS Cloudformation |
+| Server Management | Ansible |
 
 ## Professional Summary
 
@@ -40,12 +41,13 @@
 May 2022 - Present
 
 - Automatation of Copyback Process for Database and EFS across multiple account from prod to non-prod environments ensuring no senstive data leakage.
-- Migration of our existing cloud infrastructure from Cloudformation to Terraform.
+- Migration of our existing on-prem Jira to cloud infrastructure on AWS.
 - Create and maintain environment for Jira/Confluence team and assist them in the debugging of any infrastructure and performance related issues.
 - Setup and manage infrastructure on AWS using CloudFormation templates and aws cli.
 - Create and Manage Gitlab Repository and Pipeline for infrastructure and micro-services deployment. 
 - Create AMI’s on AWS using packer and maintain configuration of application using ansible.
 - Participate in agile ceremonies and PI planning to understand features and requirement from the business.
+- Work on new enchancement and upgrades for Jira to ensure 100% uptime for our Customers.
 
 
 ### DevOps Consultant, HCL Technologies
@@ -85,9 +87,9 @@ Role: AWS Architect and DevOps Engineer
 
 ## Certifications
 
-- [Splunk Certified Power-User (Dec 2020)](https://drive.google.com/file/d/1f-VceeQMooEubVekCQvU1LIMrbi9SW3S/view?usp=sharing)
+<!-- - [Splunk Certified Power-User (Dec 2020)](https://drive.google.com/file/d/1f-VceeQMooEubVekCQvU1LIMrbi9SW3S/view?usp=sharing)-->
 - [AWS certified Solution Architect – Associate (May 2020).](https://drive.google.com/file/d/1c4yYsJI05XNnJr3dX7nZhfT4cNOjTRFA/view?usp=sharing)
-- [Project Management by Adelaide University, Australia (Oct 2017)](https://drive.google.com/file/d/1ib7RsY9sfM9b0e1Eo1mzq6LfXTsqeZHM/view?usp=sharing)
+<!--- [Project Management by Adelaide University, Australia (Oct 2017)](https://drive.google.com/file/d/1ib7RsY9sfM9b0e1Eo1mzq6LfXTsqeZHM/view?usp=sharing) -->
 
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="42c2a6b9-c168-4560-a51c-b01d8a7906b1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
