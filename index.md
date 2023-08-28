@@ -89,7 +89,7 @@ Role: AWS Architect and DevOps Engineer
 
 <!-- - [Splunk Certified Power-User (Dec 2020)](https://drive.google.com/file/d/1f-VceeQMooEubVekCQvU1LIMrbi9SW3S/view?usp=sharing)-->
 - [AWS certified Solution Architect – Associate (May 2020).](https://drive.google.com/file/d/1c4yYsJI05XNnJr3dX7nZhfT4cNOjTRFA/view?usp=sharing)
-- [HashiCorp Certified: Terraform Associate (003).] (https://drive.google.com/file/d/1KJTGIOkINTP7MogpPks2K-6l3D7W-5le/view?usp=sharing)
+- [HashiCorp Certified: Terraform Associate (003).](https://drive.google.com/file/d/1KJTGIOkINTP7MogpPks2K-6l3D7W-5le/view?usp=sharing)
 <!--- [Project Management by Adelaide University, Australia (Oct 2017)](https://drive.google.com/file/d/1ib7RsY9sfM9b0e1Eo1mzq6LfXTsqeZHM/view?usp=sharing) -->
 
 
